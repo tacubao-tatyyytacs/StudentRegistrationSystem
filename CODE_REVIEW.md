@@ -11,4 +11,4 @@
 | 7 | **Security** | The program accepts input without checking whether it is valid. Although this is a simple program, validating user input helps prevent incorrect or unexpected data from entering the system. |
 | 8 | **Maintainability** | The program would be difficult to modify as it grows because it uses separate parameters and only stores student names. Using a `Student` class with `name`, `age`, and `grade` fields would make future modifications easier. |
 | 9 | **Data Storage** | The program only stores student names in the ArrayList. The age and grade are displayed but not saved, making it impossible to retrieve the complete student information later. |
-| 10 | **Data Integrity** The program does not ensure that student records are complete and accurate before saving them. This can result in incomplete or unreliable student records. |
+| 10 | **Data Integrity** | The program does not ensure that student records are complete and accurate before saving them. This can result in incomplete or unreliable student records. |
