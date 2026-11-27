@@ -1,4 +1,4 @@
-## Code Review Summary
+## Code Review Findings
 
 | # | Review Category | Identified Issues / Observations |
 |:-:|:----------------|:---------------------------------|
